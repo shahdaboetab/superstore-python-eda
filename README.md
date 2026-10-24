@@ -48,7 +48,7 @@ jupyter notebook superstore_eda.ipynb      # keep the CSV in the same folder
 No cost or returns data; correlation is not causation; US data only; product names standardised per Product ID.
 
 ## Video walkthrough
-[Watch here](PUT-LINK-HERE)
+[Watch here](https://youtu.be/59n3a9kvVBU)
 
 ## Author
 Shahd Aboetab | [LinkedIn](https://linkedin.com/in/shahdaboetab)
