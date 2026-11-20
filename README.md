@@ -1,7 +1,6 @@
 # Superstore Sales: Exploratory & Statistical Analysis (Python)
 
 Exploratory and statistical analysis of 9,993 Superstore order lines (2014-2017) in Python.
-Built for the **UneeQ Interns** Data Analysis program (Python EDA task).
 
 ## Business questions
 1. How do sales and profit evolve, and is there seasonality?
